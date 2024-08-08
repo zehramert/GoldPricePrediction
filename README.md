@@ -11,7 +11,7 @@ The dataset used in this project contains historical gold price data along with 
 
 - Date: The date of the observation
 - GLD: The gold price
-- SPX, USO, SLV, EUR/USD: Other financial indicators (dropped in preprocessing)
+- SPX, USO, SLV, EUR/USD: Other financial indicators (dropped in preprocessing in the second model)
 
 ### Requirements
 
