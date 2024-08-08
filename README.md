@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project aims to predict the future prices of gold using historical gold price data and machine learning models. We have implemented various regression models, including Random Forest and ARIMA, to forecast gold prices. The project involves data preprocessing, feature extraction, model training, evaluation, and prediction.
+This project aims to predict the future prices of gold using historical gold price data and machine learning models. I have implemented RandomForestRegressor model. The project involves data preprocessing, feature extraction, model training, evaluation, and prediction. 
+Accuracy of this model is 0.98
 
 ### Dataset
 
@@ -43,3 +44,8 @@ The project includes scripts for training and predicting using different models.
 - Prediction: Make predictions for the test data and plot the results. Predict future gold prices for the next 10 years.
 
 ### Output
+<img src="./img/out1.png" alt="" width="520">
+<img src="./img/out2.png" alt="" width="520">
+<img src="./img/out3.png" alt="" width="520">
+<img src="./img/out4.png" alt="" width="520">
+<img src="." alt="" width="520">
